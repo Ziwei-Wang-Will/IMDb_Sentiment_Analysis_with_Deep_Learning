@@ -35,7 +35,7 @@
 - Evaluated on test set
 
 ### 3. Improvements to the model - dealt with overfitting
-- Dropout
+- **Dropout**
 - Built a recurrent model
   - **LSTM**
   - Improvements to a recurrent model
