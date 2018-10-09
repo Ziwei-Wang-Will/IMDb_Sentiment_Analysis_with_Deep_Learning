@@ -47,5 +47,5 @@
 - Mixture of the above 
 
 ### 4. Model Comparison
-- <img src="https://github.com/will-zw-wang/IMDb_Sentiment_Analysis_Using_Deep_Learning/blob/master/images/Model_performance_comparison.png" width="500" height="200"> 
+- <img src="https://github.com/will-zw-wang/IMDb_Sentiment_Analysis_Using_Deep_Learning/blob/master/images/Model_performance_comparison.png" width="500" height="240"> 
 - Combining **pretrained embeddings**, **dropout** and **LSTM**, we improve the model performance slightly from 83% to 84, and **pretrained embeddings** makes greater contribution to this improvement than the others.
