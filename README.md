@@ -14,7 +14,7 @@
   
 ## Analysis Structure
 1. Basic preprocessing of NLP data
-2. Built a model using FNN
+2. Built a model using FFNN
 3. Improvements to the model - dealt with overfitting
 4. Model Comparison
 
@@ -26,7 +26,7 @@
 - Converted words to ID
 - Padded/truncated sequences to unified lengths
 
-### 2. Built a model using **FNN**
+### 2. Built a model using **FFNN**
 - Designed model structure
 - Added layers
 - Defined loss
